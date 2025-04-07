@@ -10,9 +10,9 @@ Why another line drawer when there are so many charting libraries?
 
 `line-chart-drawer` allows you to draw lines connecting arbitrary DOM elements in your UI. This means your line chart can be seamlessly embedded into other UI components with much more flexibility. For example, you can show a line chart inside a table:
 
-![Line Chart Example](./docs/example.png "Line Chart Example")
+![Line Chart Example](https://raw.githubusercontent.com/yilin-sai/line-chart-drawer/refs/heads/main/docs/example.png "Line Chart Example")
 
-In the example above, the data points are drawn using a charting library (e.g., `recharts`), while `line-chart-drawer` is used to connect the data points. See the [App.tsx](./demo/src/App.tsx) file for the implementation.
+In the example above, the data points are drawn using a charting library (e.g., `recharts`), while `line-chart-drawer` is used to connect the data points. See the [App.tsx](https://github.com/yilin-sai/line-chart-drawer/blob/main/demo/src/App.tsx) file for the implementation.
 
 ### Features:
 - **Flexibility**: Draw embedded line charts by connecting arbitrary DOM elements.
@@ -75,4 +75,4 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## 📄 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](https://github.com/yilin-sai/line-chart-drawer/blob/main/LICENSE).
