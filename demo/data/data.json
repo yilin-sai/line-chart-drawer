@@ -1,0 +1,62 @@
+[
+  {
+    "key": "1",
+    "store": "Zesty Squeeze Juice Shop",
+    "month": "January",
+    "purchase": 23
+  },
+  {
+    "key": "2",
+    "store": "Store 1",
+    "month": "February",
+    "purchase": 54
+  },
+  {
+    "key": "3",
+    "store": "Store 1",
+    "month": "March",
+    "purchase": 34
+  },
+  {
+    "key": "4",
+    "store": "Store 1",
+    "month": "April",
+    "purchase": 65
+  },
+  {
+    "key": "5",
+    "store": "Store 1",
+    "month": "May",
+    "purchase": 78
+  },
+  {
+    "key": "6",
+    "store": "Store 1",
+    "month": "June",
+    "purchase": 67
+  },
+  {
+    "key": "7",
+    "store": "Store 1",
+    "month": "July",
+    "purchase": 82
+  },
+  {
+    "key": "8",
+    "store": "Store 1",
+    "month": "August",
+    "purchase": 99
+  },
+  {
+    "key": "9",
+    "store": "Store 1",
+    "month": "September",
+    "purchase": 85
+  },
+  {
+    "key": "10",
+    "store": "Store 1",
+    "month": "October",
+    "purchase": 96
+  }
+]
