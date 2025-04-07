@@ -1,7 +1,15 @@
 {
   "name": "line-chart-drawer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yilin-sai/line-chart-drawer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yilin-sai/line-chart-drawer/issues"
+  },
+  "homepage": "https://github.com/yilin-sai/line-chart-drawer#readme",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
